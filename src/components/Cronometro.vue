@@ -26,6 +26,6 @@ export default defineComponent({
 
 <style>
 .display{
-    color: var(--texto-primario);
+    color: black;
 }
 </style>
